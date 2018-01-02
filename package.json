@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-gulp-handlebars",
   "version": "1.0.0",
-  "description": "Hello project boilerplate using Scss, ES6, Browserify, Handlebars, and Gulp",
+  "description": "Hello Great Works project boilerplate using Scss, ES6, Browserify, Handlebars, and Gulp",
   "main": "dist/app.js",
   "scripts": {
     "lint": "eslint src/js/**",

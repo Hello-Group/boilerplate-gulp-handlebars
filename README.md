@@ -1,4 +1,4 @@
-# Hello Project Boilerplate
+# Hello Great Works Handlebars Boilerplate
 
 - Gulp
 - Scss

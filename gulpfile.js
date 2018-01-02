@@ -1,5 +1,3 @@
-'use strict';
-
 require('./gulp-tasks/css');
 require('./gulp-tasks/js');
 require('./gulp-tasks/markup');

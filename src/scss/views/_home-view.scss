@@ -1,9 +1,9 @@
 .view--home {
-  height: 100%;
-  background-color: $color-red;
-  transition: 1s background-color ease;
+	height: 100%;
+	background-color: $color-red;
+	transition: 1s background-color ease;
 
-  @include respond-min(mid) {
-    background-color: $color-green;
-  }
+	@include respond-min(mid) {
+		background-color: $color-green;
+	}
 }

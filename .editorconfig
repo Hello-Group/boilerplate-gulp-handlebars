@@ -1,0 +1,22 @@
+# http://editorconfig.org
+root = true
+
+[*]
+indent_style = tab
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+
+# add exceptions below
+[*.{html,js,ts,scss,css,java,gradle,groovy,md,yml,drl}]
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.bat]
+end_of_line = crlf
+
+[*.{png,jpg,gif,ico,jar,pdf,ttf}]
+# ignored
+
+[*.md]
+trim_trailing_whitespace = false
